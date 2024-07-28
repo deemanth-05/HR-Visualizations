@@ -9,12 +9,12 @@ In today's dynamic work environment, tracking employee attendance, sick leave, a
 3.)Work From Home Percentage (%): The percentage of employees working from home.
 These metrics help HR teams understand attendance patterns, identify trends, and make informed decisions to improve workforce productivity and well-being.
 
-Project Structure
+# Project Structure
 ~Data: Contains sample datasets used for creating visualizations.
 ~Reports: Includes Power BI reports and dashboards.
 ~Scripts: Power BI scripts and DAX formulas used for data transformation and visualization.
 
-Getting Started
+# Getting Started
 Prerequisites
 To work with this project, you need:
 ~Power BI Desktop
