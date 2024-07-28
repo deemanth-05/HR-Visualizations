@@ -1,7 +1,7 @@
-HR Visualizations Using Power BI
+#HR Visualizations Using Power BI
 Welcome to the HR Visualizations repository! This project aims to provide comprehensive visualizations to analyze key HR metrics using Power BI.
 
-Problem Statement
+#Problem Statement
 In today's dynamic work environment, tracking employee attendance, sick leave, and work-from-home (WFH) percentages is crucial for effective HR management. This project addresses the following key metrics:
 
 1.)Present Percentage (%): The percentage of employees present at work on any given day.
